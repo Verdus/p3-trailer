@@ -34,9 +34,13 @@ body {
   background-image: url(../img/rockywall.png)
 }
 
+h1, h3{
+  font-family: 'Marcellus', serif;
+}
 
-
-
+p{
+  font-family: 'Georgia', 'Garamond', serif;
+}
 
 
 /********************
@@ -82,12 +86,12 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 /* [] 3. Play Button */
 .mejs-378 .mejs-controls .mejs-play button {
-fill:#BF5700;
+
 }
 
 /* [] 4. Current Time Display */
 .mejs-378 .mejs-controls .mejs-currenttime {
-text-color: #BF5700;
+
 }
 
 /* [] 5. Rail: Current Loaded, To Load, & Background */

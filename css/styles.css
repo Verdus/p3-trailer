@@ -72,6 +72,7 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 /* [] 1. Change overlayed play button */
 .mejs-378 .mejs-overlay-button {
+
 }
 
 /* [] 2. Control Wrapper Positioning */
@@ -81,19 +82,25 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 
 /* [] 3. Play Button */
 .mejs-378 .mejs-controls .mejs-play button {
+fill:#BF5700;
 }
 
 /* [] 4. Current Time Display */
 .mejs-378 .mejs-controls .mejs-currenttime {
+text-color: #BF5700;
 }
 
 /* [] 5. Rail: Current Loaded, To Load, & Background */
 .mejs-378 .mejs-controls div.mejs-time-rail {
+
 }
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background: #66023C;
+}/* Tyrion purple- color of Roman royalty*/
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-current {
+  background: #BF5700;
 }
 
 /* ADD MORE STYLING. MAKE IT YOUR OWN. */
